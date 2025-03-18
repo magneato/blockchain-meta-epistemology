@@ -3,7 +3,7 @@
 
 **Robert L. Sitton, Jr.**  
 *Independent Researcher*  
-*rlsitton@distributed-epistemology.org*
+*rsitton@quholo.com*
 
 ## Abstract
 
