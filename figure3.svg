@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Background -->
+  <rect width="500" height="500" fill="white"/>
+  
+  <!-- Concentric circles representing layers of recursion -->
+  <circle cx="250" cy="250" r="200" fill="none" stroke="#333" stroke-width="1" stroke-dasharray="5,5"/>
+  <circle cx="250" cy="250" r="170" fill="none" stroke="#333" stroke-width="1" stroke-dasharray="5,5"/>
+  <circle cx="250" cy="250" r="140" fill="none" stroke="#333" stroke-width="1" stroke-dasharray="5,5"/>
+  <circle cx="250" cy="250" r="110" fill="none" stroke="#333" stroke-width="1" stroke-dasharray="5,5"/>
+  <circle cx="250" cy="250" r="80" fill="none" stroke="#333" stroke-width="1" stroke-dasharray="5,5"/>
+  
+  <!-- Central core representing the blockchain -->
+  <circle cx="250" cy="250" r="50" fill="#FFCCCC" stroke="#333" stroke-width="2"/>
+  
+  <!-- Knowledge nodes at different dimensions -->
+  <circle cx="180" cy="170" r="15" fill="#CCFFFF" stroke="#333" stroke-width="1"/>
+  <text x="180" y="175" text-anchor="middle" font-family="Arial" font-size="12">K1</text>
+  
+  <circle cx="330" cy="200" r="15" fill="#CCFFFF" stroke="#333" stroke-width="1"/>
+  <text x="330" y="205" text-anchor="middle" font-family="Arial" font-size="12">K2</text>
+  
+  <circle cx="250" cy="350" r="15" fill="#CCFFFF" stroke="#333" stroke-width="1"/>
+  <text x="250" y="355" text-anchor="middle" font-family="Arial" font-size="12">K3</text>
+  
+  <circle cx="150" cy="280" r="15" fill="#CCFFFF" stroke="#333" stroke-width="1"/>
+  <text x="150" y="285" text-anchor="middle" font-family="Arial" font-size="12">K4</text>
+  
+  <circle cx="350" cy="300" r="15" fill="#CCFFFF" stroke="#333" stroke-width="1"/>
+  <text x="350" y="305" text-anchor="middle" font-family="Arial" font-size="12">K5</text>
+  
+  <!-- Connecting lines representing references -->
+  <line x1="180" y1="185" x2="230" y2="230" stroke="#333" stroke-width="1.5"/>
+  <line x1="330" y1="215" x2="280" y2="235" stroke="#333" stroke-width="1.5"/>
+  <line x1="250" y1="335" x2="250" y2="300" stroke="#333" stroke-width="1.5"/>
+  <line x1="165" y1="280" x2="215" y2="260" stroke="#333" stroke-width="1.5"/>
+  <line x1="335" y1="300" x2="285" y2="275" stroke="#333" stroke-width="1.5"/>
+  
+  <!-- Self-referential loops -->
+  <path d="M250,200 C220,180 220,150 250,130 C280,150 280,180 250,200" fill="none" stroke="#333" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <path d="M300,250 C320,220 350,220 370,250 C350,280 320,280 300,250" fill="none" stroke="#333" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <path d="M200,250 C180,220 150,220 130,250 C150,280 180,280 200,250" fill="none" stroke="#333" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <!-- Title -->
+  <text x="250" y="450" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">The Recursive Blockchain Mind</text>
+</svg>
