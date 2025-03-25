@@ -15,7 +15,7 @@ When examined through the framework of transcendent epistemology, blockchain tec
 
 The significance of blockchain extends far beyond its applications in finance or data management. It represents a paradigmatic shift in how we understand and interact with truth, consensus, and value. This research positions Bitcoin and subsequent blockchain technologies within this broader epistemological revolution, exploring how they instantiate and operationalize the theoretical constructs of transcendent knowledge frameworks.
 
-![Figure 1: Blockchain as the convergence point of physics, mathematics, and epistemology, creating a unified knowledge morphospace.](figure1.svg)
+![Figure 1: Blockchain as the convergence point of physics, mathematics, and epistemology, creating a unified knowledge morphospace.](figure1.png)
 
 ## 2. Blockchain as Meta-Modeling Physical System
 
